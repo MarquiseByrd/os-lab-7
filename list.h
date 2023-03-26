@@ -1,9 +1,5 @@
-// list/list.h
-// 
 // Interface definition for linked list.
-//
-// <Author>
-
+//Marquise Byrd @02939181
 #include <stdbool.h>
 
 typedef struct block {
